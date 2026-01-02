@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1767262697 source:c:\users\user\onedrive\documents\focus\prog1\main.c
+	<stdio.h>
+	<stdbool.h>
+	<limits.h>
+

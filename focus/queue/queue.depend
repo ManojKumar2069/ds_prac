@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1767383276 source:c:\users\user\onedrive\documents\focus\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1767381472 source:c:\users\user\onedrive\documents\focus\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+

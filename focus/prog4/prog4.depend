@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1767372889 source:c:\users\user\onedrive\documents\focus\prog4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
